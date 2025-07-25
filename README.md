@@ -20,7 +20,8 @@
 
 ## **My Games**
   Here I explain which games I play...
-  Game name	  Developed by	Gameplay description	Platforms
+  
+  Game name	      Developed by	Gameplay description	                                                    Platforms
 * Limbus Company	Project Moon	A strategy character-driven RPG presented in the form of a visual novel 	Windows, Android, iOs
 * Library of Ruina	Project Moon	A deck-building game that serves as a prequel to Limbus Company 	Windows, macOS, Xbox One, Switch, PS4 
 * Roblox	Roblox Corp. 	A game creation platform that allows users to create and play games 	Windows, macOS, iOS, Android, PS4, PS5 Xbox One, Xbox Series X/S
