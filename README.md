@@ -1,7 +1,5 @@
 # **About Me**
 
-![Tigress](https://ar.inspiredpencil.com/pictures-2023/kung-fu-panda-baby-tigress)
-
 *Hello dear reader/s*! My name is George Zikoudis, also known as Attaback (from a Capoeira nickname) or G1orgosZ. I'm a huge F1 fan and also I have love for Japanese arts, especially anime manga. I want to develop my love for computers and programming into a succesfull career.
 
 ## **My hobbies**
